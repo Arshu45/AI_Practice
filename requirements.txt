@@ -4,3 +4,11 @@ langchain_openai==1.1.11
 langchain_google_genai==4.2.1
 dotenv-0.9.9
 
+
+# Voice Assistant Deepgram SDK
+deepgram-sdk==6.0.1
+
+# ElevenLabs SDK
+elevenlabs==2.40.0
+
+
