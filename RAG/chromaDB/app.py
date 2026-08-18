@@ -41,7 +41,7 @@ query_text = "My name is arsh"
 # Perform a similarity search
 results = collection.query(
     query_texts=[query_text],
-    n_results=1,
+    n_results=2,
     include=["documents", "metadatas"]
 )
 

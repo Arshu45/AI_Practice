@@ -17,4 +17,5 @@ deepgram-sdk==6.0.1
 # ElevenLabs SDK
 elevenlabs==2.40.0
 
-
+rank_bm25
+langchain-classic
