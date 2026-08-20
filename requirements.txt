@@ -19,3 +19,4 @@ elevenlabs==2.40.0
 
 rank_bm25
 langchain-classic
+langchain-experimental
